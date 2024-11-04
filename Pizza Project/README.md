@@ -1,5 +1,5 @@
 Project Overview
-In this project, I utilized SQL and Power BI to analyze a year’s worth of sales data from a pizza outlet. The objective was to uncover valuable insights to help the outlet make informed decisions to increase sales. The data is sourced from four CSV files and is analyzed using MySQL.
+In this project, I utilized SQL to analyze a year’s worth of sales data from a pizza outlet. The objective was to uncover valuable insights to help the outlet make informed decisions to increase sales. The data is sourced from four CSV files and is analyzed using MySQL.
 
 Data Source
  [Pizza Place Sales Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/pizzaplacesales)
